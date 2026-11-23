@@ -1,0 +1,16 @@
+Name,Email
+Prakash Royal,prakash.royal@example.com
+Aarav Sharma,aarav.sharma@example.com
+Bhavya Reddy,bhavya.reddy@techcorp.io
+Chaitanya Kumar,chaitanya.k@securitylabs.org
+Divya Prakash,divya.p@cyberdefense.in
+Eshwar Varma,eshwar.varma@cloudsec.net
+Farhan Ali,farhan.ali@security.com
+Prakash Royal,PRAKASH.ROYAL@EXAMPLE.COM
+Duplicate User,aarav.sharma@example.com
+,missing.name@example.com
+Invalid Email User,not-an-email-at-all
+Empty Email User,
+Malformed Email,user@@domain..com
+Spaces in Email,user name@domain.com
+Very Long Valid User,alexander.hamilton.long.email.address@domain-standard.org

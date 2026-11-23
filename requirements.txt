@@ -1,0 +1,9 @@
+# AccuKnox AI Security Engineer Trainee Assessment - Assignment 1 Dependencies
+# Verified Python 3.10+ / 3.11 / 3.12 / 3.13 Compatibility
+
+requests>=2.31.0
+matplotlib>=3.8.0
+pandas>=2.1.0
+pytest>=8.0.0
+pytest-cov>=4.1.0
+python-docx>=1.1.0

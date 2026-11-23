@@ -1,0 +1,17 @@
+[
+  {"id": 101, "name": "Aarav Sharma", "subject": "Computer Networks", "score": 85.5},
+  {"id": 102, "name": "Bhavya Reddy", "subject": "Computer Networks", "score": 92.0},
+  {"id": 103, "name": "Chaitanya Kumar", "subject": "Computer Networks", "score": 78.0},
+  {"id": 104, "name": "Divya Prakash", "subject": "Computer Networks", "score": 88.5},
+  {"id": 105, "name": "Eshwar Varma", "subject": "Computer Networks", "score": 95.0},
+  {"id": 106, "name": "Farhan Ali", "subject": "Computer Networks", "score": 63.5},
+  {"id": 107, "name": "Gitanjali Rao", "subject": "Computer Networks", "score": 71.0},
+  {"id": 108, "name": "Hari Prasad", "subject": "Computer Networks", "score": 89.0},
+  {"id": 109, "name": "Ishita Sen", "subject": "Computer Networks", "score": 96.5},
+  {"id": 110, "name": "Jayant Mehta", "subject": "Computer Networks", "score": 82.0},
+  {"id": 111, "name": "Kavya Sri", "subject": "Computer Networks", "score": 79.5},
+  {"id": 112, "name": "Lokesh Naidu", "subject": "Computer Networks", "score": 80.5},
+  {"id": 999, "name": "Invalid Student", "subject": "Computer Networks", "score": -15.0},
+  {"id": 998, "name": "Missing Score Student", "subject": "Computer Networks", "score": null},
+  {"id": 997, "name": "Malformed Score Student", "subject": "Computer Networks", "score": "ninety-five"}
+]

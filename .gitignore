@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Pytest / Coverage
+.cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Matplotlib cache
+.mpl_cache/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Configuration
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Secrets & Local Configurations
+*.pem
+*.key
+*.pfx
+.env.local
+.env.production
+*.env
+
+# Generated SQLite Databases (can be recreated by running the code)
+*.db
+*.sqlite
+*.sqlite3
+outputs/*.db
+outputs/books.db
+outputs/users.db
+assignment_1/outputs/
+
+# Excluded Build Artifacts & Internal Document Tools
+*.docx
+/Ballapuram_Prakash_Royal_AccuKnox_Assignment.docx
+/Ballapuram_Prakash_Royal_AccuKnox_Assignment.pdf
+documentation/
+video_presentation/
+
+# Logs and Scratch
+*.log
+scratch/
+*.bak
